@@ -11,3 +11,4 @@ for tal in range(a, b):
   if (tal) % k == 0:
     print("birr")
 
+# lagt till en kommentar
