@@ -1,0 +1,13 @@
+giraff, djur
+hund, djur
+Sverige, land
+Frankrike, land
+Manchester, engelsk stad
+Stockholm, svensk stad
+jupiter, planet  
+saturnus, planet
+hamburgare, mat
+adidas, märke
+nike, märke
+volvo, bil
+lamborghini, bil
